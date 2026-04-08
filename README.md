@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Paweena (Bam)</h1>
-<h3 align="center">UX/UI Designer & Frontend Developer</h3>
+<h3 align="center">🎨 UX/UI Designer | 💻 Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=UX/UI+Designer;Frontend+Developer;Always+learning+new+things" />
@@ -36,23 +36,24 @@ I have hands-on experience building responsive and user-friendly web application
 
 ## 📌 Featured Projects
 
-### 🔹 Student Activity Management System  
+###🚗 3D Car Modeling Project
+- Designed and created a 3D car model using Blender  
+- Practiced 3D modeling, rendering, and visualization skills
+
+###🎯 Student Activity Management System  
 - Real-time dashboard for managing student activities  
 - Features: Activity tracking, user interface dashboard  
 - Tech: HTML, CSS, JavaScript  
 
-### 🔹 Muay Thai Platform  
+###🥊Muay Thai Platform  
 - Platform connecting tourists with Muay Thai gyms  
 - Features: Search, information display, user-friendly interface  
-- Focus: UX/UI Design & Frontend Development  
+- Focus: UX/UI Design & Frontend Development
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
-</p>
+###🤖 IoT Project: CPR Training Robot
+- Developed a CPR training robot as part of an IoT course project  
+- Secured project funding from a company (Achitronics)  
+- Presented the project and demonstrated its functionality
 
 ---
 
