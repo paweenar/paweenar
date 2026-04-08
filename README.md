@@ -1,34 +1,66 @@
-<h1 align="center">Hi 👋 I'm Paweena</h1>
-<h3 align="center">UX/UI Designer & Web Developer</h3>
+<h1 align="center">Hi 👋 I'm Paweena (Bam)</h1>
+<h3 align="center">UX/UI Designer & Frontend Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=UX/UI+Designer;Frontend+Developer;Always+learning+new+things" />
+</p>
+
+---
+
+## 🌟 Professional Summary
+Hi, I'm Paweena (Bam), a 22-year-old Computer Science student at Huachiew Chalermprakiet University. I am passionate about UX/UI Design and Frontend Development, with strong problem-solving skills and the ability to quickly learn and adapt to new technologies.
+
+I have hands-on experience building responsive and user-friendly web applications using HTML, CSS, and JavaScript, along with modern design tools. I am eager to grow as a developer and contribute to meaningful and engaging digital experiences.
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Student & Working at the same time
-- 🎨 Interested in UX/UI Design & Frontend Development
-- 🌱 Currently learning: Bootstrap, Web Design, Data Systems
-- 💡 Passionate about creating clean and user-friendly websites
+- 🎓 Computer Science student with hands-on project experience  
+- 💼 Able to balance studying and working effectively  
+- 🎨 Interested in UX/UI Design & Frontend Development  
+- 🌱 Currently learning: Bootstrap, Web Design, Data Systems  
+- 💡 Focused on building clean, responsive, and user-friendly websites  
 
 ---
 
 ## 🛠️ Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,github" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Student Activity Management System**  
-  ระบบจัดการกิจกรรมนักศึกษา (Real-time dashboard)
 
-- 🔹 Muay Thai Platform
-  แพลตฟอร์มเชื่อมโยงนักท่องเที่ยวกับค่ายมวยไทย
-- 🔹 Muay Thai Platform
+### 🔹 Student Activity Management System  
+- Real-time dashboard for managing student activities  
+- Features: Activity tracking, user interface dashboard  
+- Tech: HTML, CSS, JavaScript  
+
+### 🔹 Muay Thai Platform  
+- Platform connecting tourists with Muay Thai gyms  
+- Features: Search, information display, user-friendly interface  
+- Focus: UX/UI Design & Frontend Development  
 
 ---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ## 🔗 Contact
-- 📧 Email: your_email@gmail.com
-- 🌐 Portfolio: your_website.com
+- 📧 Email: Skyfiy2475@gmail.com  
+- 🌐 Msteam: 661587@hcu.ac.th
+- 📄 Resume: https://canva.link/ynosq8wjb1b5mvw
+
+---
+
+💬 I'm open to internship opportunities and collaboration!
