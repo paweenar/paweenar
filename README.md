@@ -22,11 +22,11 @@
 - 🔹 **Student Activity Management System**  
   ระบบจัดการกิจกรรมนักศึกษา (Real-time dashboard)
 
-- 🔹 **Muay Thai Platform**  
+- 🔹 Muay Thai Platform
   แพลตฟอร์มเชื่อมโยงนักท่องเที่ยวกับค่ายมวยไทย
+- 🔹 Muay Thai Platform
 
 ---
-
 ---
 
 ## 🔗 Contact
