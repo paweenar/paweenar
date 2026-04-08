@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Paweena (Bam)</h1>
+<h1 align="center">Hi 👋 I'm Paweenar (Bam)</h1>
 <h3 align="center">🎨 UX/UI Designer | 💻 Frontend Developer</h3>
 
 <p align="center">
