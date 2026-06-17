@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Paweenar (Bam)</h1>
-<h3 align="center">🎨 UX/UI Designer | 💻 Frontend Developer</h3>
+<h3 align="center">🎨 UX/UI Designer | 💻 Fullstack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=UX/UI+Designer;Frontend+Developer;Always+learning+new+things" />
